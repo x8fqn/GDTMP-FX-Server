@@ -1,0 +1,25 @@
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\Library Copyright.txt
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x64\icui18n.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x64\icuuc.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x64\Noesis.Javascript.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x86\icui18n.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x86\icuuc.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\x86\Noesis.Javascript.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\GDTMP Server.exe
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\GDTMP Server.pdb
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\dmultiplayersrv.exe
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\Fleck.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\dmultiplayersrv.pdb
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\bin\Debug\dmultiplayersrv.exe.config
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\dmultiplayersrvgui.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\dmultiplayersrvgui.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Darkly.GDTMP.PluginForm.resources
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Darkly.GDTMP.InfoForm.resources
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Darkly.GDTMP.SettingsForm.resources
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Darkly.GDTMP.SrvForm.resources
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\Darkly.GDTMP.Properties.Resources.resources
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\dmultiplayersrvgui.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\GDTMP Server.exe
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrvgui\obj\Debug\GDTMP Server.pdb

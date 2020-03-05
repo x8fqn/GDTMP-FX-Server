@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\Library Copyright.txt
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x64\icui18n.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x64\icuuc.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x64\Noesis.Javascript.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x86\icui18n.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x86\icuuc.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\x86\Noesis.Javascript.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\dmultiplayersrv.exe.config
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\dmultiplayersrv.exe
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\dmultiplayersrv.pdb
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\Fleck.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\obj\Debug\dmultiplayersrv.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\obj\Debug\dmultiplayersrv.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\obj\Debug\dmultiplayersrv.exe
+C:\Users\Administrator\Documents\dmultiplayersrv\dmultiplayersrv\obj\Debug\dmultiplayersrv.pdb

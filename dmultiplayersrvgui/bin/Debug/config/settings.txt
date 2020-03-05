@@ -1,0 +1,15 @@
+autopf:False
+cheatmodallowed:False
+description:GDTMP Server
+extendedopprivs:False
+maxmoney:-1
+motd:disabled
+offlineconsoles:False
+permaopip:False
+port:3966
+reviewbattle:False
+serversidesave:False
+srvbrowser:False
+syncconsoles:True
+timeout:300
+timesync:False
